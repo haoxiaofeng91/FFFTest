@@ -1,0 +1,16 @@
+PODS:
+  - FFFTest (0.1.0)
+
+DEPENDENCIES:
+  - FFFTest (from `../`)
+
+EXTERNAL SOURCES:
+  FFFTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFFTest: 61e14bee750e1685a9967b8d9b1df352aa8276cc
+
+PODFILE CHECKSUM: 6ce8377440df1482e7727e70e20fb6c5c8e52c0d
+
+COCOAPODS: 1.7.4
